@@ -9,7 +9,7 @@
 <div>
     <div style="width: 25%;">
     <p>I have a keen interest in analyzing virtual systems in regards to their technology, the human interactions within them, and the inherent weaknesses through which they can be exploited, ultimately resulting in both security breaches and their failure to fulfill their intended purpose.</p>
-    <p>During my studies in information science, I built a foundation for understanding the storage, retrieval, and utilization of information, as well as creating information products to share knowledge within organizations or states.</p>
+    <p>During my studies in information science, I built a strong foundation for understanding the storage, retrieval, and utilization of information, as well as creating information products to share knowledge within organizations or states.</p>
     <p>While I remain concerned with optimizing existing information systems and processes, my primary focus these days is on architecting and programming new full-stack platforms.</p>
     </div>
 </div>
