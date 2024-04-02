@@ -17,7 +17,7 @@
 <h2>ᴍʏ ɢᴏ-ᴛᴏ ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ</h2>  
 <!-- favorite languages -->
 <div align="left">
-    <h3>ʟᴀɴɢᴜᴀɢᴇꜱ</h3>
+    <h3>ꜰᴀᴠᴏʀɪᴛᴇ ʟᴀɴɢᴜᴀɢᴇꜱ</h3>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -25,7 +25,7 @@
 
 <!-- favorite frameworks -->
 <div align="left">
-    <h3>ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ</h3>
+    <h3>ꜰᴀᴠᴏʀɪᴛᴇ ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ</h3>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
     <br/>
@@ -35,7 +35,7 @@
 
 <!-- main tools -->
 <div align="left">
-    <h3>ᴛᴏᴏʟꜱ</h3>
+    <h3>ꜰᴀᴠᴏʀɪᴛᴇ ᴛᴏᴏʟꜱ</h3>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <br/>
