@@ -54,6 +54,6 @@
 <p><b>You will probably notice that most of my commits are to private repositories these days. That's because currently I'm not contributing to the OSS movement (although I like it!). Interesting projects I can recommend if you got any time to spare:</b></p>
 <ul>
     <li><a href="https://github.com/w3c/activitystreams" target="_blank">Activity Streams 2.0 (AS2)</a> (Fediverse)</li>
-    <li><a href="https://github.com/MiSTer-devel/Main_MiSTer" target="">MiSTer FPGA (hardware emulation)</a></li>
-    <li><a href="https://github.com/AsahiLinux" target="">Asahi Linux (Silicon Macs)</a></li>
+    <li><a href="https://github.com/MiSTer-devel/Main_MiSTer" target="">MiSTer FPGA</a> (hardware emulation)</li>
+    <li><a href="https://github.com/AsahiLinux" target="">Asahi Linux</a> (silicon Macs)</li>
 </ul>
