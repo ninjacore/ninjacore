@@ -30,6 +30,7 @@
     <p><b>FRAMEWORKS</b></p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+    <img src="https://img.shields.io/badge/Django-003D2A?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
     <br/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
     <img src="https://img.shields.io/badge/N_E_X_T-V14?style=for-the-badge&logo=nextdotjs" alt="NextJS" />
